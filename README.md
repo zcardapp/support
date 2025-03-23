@@ -28,7 +28,7 @@ I detta läget följer kartan din position i den inställda orientering du valt.
 
 Kartan kommer att orienteras efter den kurs du har för stunden.
 
-![navmode2](/images/nav-mode2.png)
+![navmode2](/images/nav-mode-2.png)
 
 ### Platser
 
