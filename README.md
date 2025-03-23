@@ -20,8 +20,8 @@ Navigering med GPS i appen kräver att du godkänner tillgång till GPS. Detta f
 
 Det finns två st olika navigeringslägen. Dessa aktiveras vid tryck på pilen i sidomenyn i kartläget. För att inaktivera navigeringsläget tryck tills pilen ej är ifylld.
 
-| Första läget (inaktivt, följer ej)        | Andra läget (vit ifylld pil)                            | Tredje läget (blå ifylld pil)                                                           |
-| ----------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| Första läget (inaktivt, följer ej)        | Andra läget (vit ifylld pil) | Tredje läget (blå ifylld pil) |
+| ----------------------------------------- | ------------------------------------ | --------------------------------------- |
 | Följer ej din position                    | Kartan din position i den inställda orientering du valt | Kartan kommer att orienteras efter den kurs du har för stunden samt följer din position |
 | ![navmode0](/images/new-location-off.png) | ![navmode1](/images/new-location-normal.png)            | ![navmode2](/images/new-location-bearing.png)                                           |
 
