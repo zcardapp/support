@@ -27,7 +27,8 @@ I detta läget följer kartan din position i den inställda orientering du valt.
 ##### Andra läget (blå ifylld pil)
 
 Kartan kommer att orienteras efter den kurs du har för stunden.
-![navmode2](/images/nav-mode-2.png)
+
+![navmode2](/images/nav-mode2.png)
 
 ### Platser
 
