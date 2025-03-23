@@ -20,10 +20,20 @@ Navigering med GPS i appen kräver att du godkänner tillgång till GPS. Detta f
 
 Det finns två st olika navigeringslägen. Dessa aktiveras vid tryck på pilen i sidomenyn i kartläget. För att inaktivera navigeringsläget tryck tills pilen ej är ifylld.
 
-| Första läget (inaktivt)                   | Andra läget (vit ifylld pil)                                   | Tredje läget (blå ifylld pil)                                                           |
-| ----------------------------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| Följer ej din position                    | Kartan följer din position i den inställda orientering du valt | Kartan kommer att orienteras efter den kurs du har för stunden samt följer din position |
-| ![navmode0](/images/new-location-off.png) | ![navmode1](/images/new-location-normal.png)                   | ![navmode2](/images/new-location-bearing.png)                                           |
+**Normalläget**
+Följer ej din position
+
+![navmode0](/images/new-location-off.png)
+
+**Läge 1**
+Kartan följer din position i den inställda orientering du valt
+
+![navmode1](/images/new-location-normal.png)
+
+**Läge 2**
+Kartan kommer att orienteras efter den kurs du har för stunden samt följer din position
+
+![navmode2](/images/new-location-bearing.png)
 
 ### Platser
 
@@ -35,14 +45,5 @@ Skapa egna bokmärken för platser du enkelt vill hitta till igen. Ett långt tr
 
 ### Inställningar
 
-- "Skärm alltid på", om du behöver ha sjökortet aktivt under en längre tid kan du välja att hålla skärmen aktiv.
-- "Inställningar för appen", den länk tar dig till appens inställningar i mobilen. Här kan du t.ex. aktivera GPS.
-
-### Återbetalning
-
-Om du av någon anledning ångrar ditt köp så kan du begära en återbetalning. När du gjort det kommer tillgång till appen att upphöra.
-
-Så här gör du:
-
-- Google
-- Apple
+- "Skärm alltid på", om du behöver ha sjökortet aktivt under en längre tid utan att mobilen går in i viloläge.
+- "Inställningar för appen", denna länk tar dig till appens inställningar i mobilen. Här kan du t.ex. aktivera GPS.
